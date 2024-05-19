@@ -1,0 +1,5 @@
+.env
+venv/
+lab.py
+__pycache__/
+databases/
