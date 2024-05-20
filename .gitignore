@@ -1,5 +1,6 @@
 .env
 venv/
 lab.py
+logs.txt
 __pycache__/
 databases/
